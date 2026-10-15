@@ -1,5 +1,5 @@
-Este projeto acadêmico é desenvolvido a partir da iniciativa TutorIA, uma formação voltada para benefício da UNOPAR, com o objetivo de auxiliá-los na resolução de questões relacionadas às atividades de estágio.
-A proposta consiste no desenvolvimento de um chatbot com inteligência artificial, utilizando o Ollama para executar o modelo de linguagem e oferecer suporte aos estudantes durante a resolução de suas dúvidas de estágio. Para a interface visual e a interação com o usuário, é utilizado o Streamlit.
+Este projeto acadêmico é desenvolvido a partir da iniciativa TutorIA, uma formação, com o objetivo de auxiliá-los na resolução de questões relacionadas às atividades de estágio da UNOPAR.
+A proposta consiste no desenvolvimento de um chatbot com inteligência artificial, utilizando o Ollama para executar o modelo de linguagem e oferecer suporte aos estudantes durante a resolução de suas dúvidas. Para a interface visual e a interação com o usuário, é utilizado o Streamlit.
 Desenvolver uma ferramenta de apoio educacional que facilite o acesso a orientações e respostas relacionadas às questões de estágio, proporcionando uma experiência de interação simples e intuitiva.
 - Python: linguagem utilizada no desenvolvimento da aplicação.
 - Ollama: execução local do modelo de linguagem utilizado pelo chatbot.
